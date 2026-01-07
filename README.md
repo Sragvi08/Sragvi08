@@ -17,12 +17,12 @@
 - **Tools:** Wireshark, Git, basic Splunk labs  
 - **Cloud:** Azure fundamentals  
 
-### 🤝 Let’s Connect
-- Open to learning, collaboration, and security discussions  
-- Feel free to reach out via LinkedIn
-
 ### ⚡ Fun fact
 - I read… a lot
 - I enjoy learning new languages and how people communicate 
 - Traveling and exploring new places keeps me curious 
-- Coffee enthusiast 
+- Coffee enthusiast
+
+### 🤝 Let’s Connect
+- Open to learning, collaboration, and security discussions  
+- Feel free to reach out via LinkedIn
