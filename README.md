@@ -1,4 +1,4 @@
-## Hey, I'm Sragvi 👋
+## Hey, I'm Sragvi ✨
 
 ### 🔐 Security Interests
 - Blue team / SOC operations  
