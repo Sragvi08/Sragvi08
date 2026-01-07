@@ -1,16 +1,28 @@
-## Hi there 👋
+## Hey, I'm Sragvi 👋
 
-<!--
-**Sragvi08/Sragvi08** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🔐 Security Interests
+- Blue team / SOC operations  
+- Threat intelligence & adversary behavior  
+- Learning offensive techniques to better understand defense  
 
-Here are some ideas to get you started:
+### 🧪 What I’m Working On
+- Writing security lab notes and CTF-style walkthroughs  
+- Exploring common cloud misconfigurations and defensive controls  
+- Building a stronger foundation in detection-first security  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🧰 Technical Foundations
+- **Networking:** TCP/IP, packet analysis, traffic inspection  
+- **Systems:** Linux, resource isolation, secure programming basics  
+- **Programming:** Python, C, SQL  
+- **Tools:** Wireshark, Git, basic Splunk labs  
+- **Cloud:** Azure fundamentals  
+
+### 🤝 Let’s Connect
+- Open to learning, collaboration, and security discussions  
+- Feel free to reach out via LinkedIn
+
+### ⚡ Fun fact
+- I read… a lot
+- I enjoy learning new languages and how people communicate 
+- Traveling and exploring new places keeps me curious 
+- Coffee enthusiast 
