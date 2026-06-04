@@ -1,4 +1,4 @@
-## Hey, I'm Sragvi ✨
+## Hey, I'm Sragvi! ✨
 
 ### 🔐 Security Interests
 - Blue team / SOC operations  
@@ -16,6 +16,9 @@
 - **Programming:** Python, C, SQL  
 - **Tools:** Wireshark, Git, basic Splunk labs  
 - **Cloud:** Azure fundamentals  
+
+### 📖 Currently Reading (technical)
+Automate the Boring Stuff with Python by Al Sweigart
 
 ### ⚡ Fun fact
 - I read… a lot
